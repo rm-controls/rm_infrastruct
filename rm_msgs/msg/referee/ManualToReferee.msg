@@ -7,6 +7,7 @@ bool cover_state
 #hero
 bool gimbal_eject
 bool hero_eject_flag
+uint32 ui_display_symbol
 
 #engineer
 bool engineer_calibration_state
